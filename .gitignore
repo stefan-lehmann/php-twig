@@ -6,3 +6,4 @@
 *.log
 *.lock
 .env
+vendor
